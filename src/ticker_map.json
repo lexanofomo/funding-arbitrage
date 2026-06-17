@@ -1,0 +1,41 @@
+{
+  "BTC": {
+    "hyperliquid": "BTC",
+    "variational": "BTC",
+    "extended": "BTC-USD",
+    "lighter": "BTC"
+  },
+  "ETH": {
+    "hyperliquid": "ETH",
+    "variational": "ETH",
+    "extended": "ETH-USD",
+    "lighter": "ETH"
+  },
+  "SOL": {
+    "hyperliquid": "SOL",
+    "variational": "SOL",
+    "extended": "SOL-USD",
+    "lighter": "SOL"
+  },
+  "NVDA": {
+    "hyperliquid": "NVDA",
+    "variational": "NVDA",
+    "extended": "NVDA-USD",
+    "lighter": "NVDA",
+    "asset_class": "equity"
+  },
+  "AAPL": {
+    "hyperliquid": "AAPL",
+    "variational": "AAPL",
+    "extended": "AAPL-USD",
+    "lighter": "AAPL",
+    "asset_class": "equity"
+  },
+  "XAU": {
+    "hyperliquid": "XAU",
+    "variational": "XAU",
+    "extended": "XAU-USD",
+    "lighter": "XAU",
+    "asset_class": "commodity"
+  }
+}

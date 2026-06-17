@@ -1,0 +1,6 @@
+{
+  "name": "Funding Arbitrage Scanner",
+  "description": "Arbitrage scanner and backtesting system for funding rates across Hyperliquid, Variational, Extended, and Lighter DEXs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
